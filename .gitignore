@@ -4,6 +4,9 @@
 /dist
 /tmp
 
+# Custom asdf versions
+.tool-versions
+
 # dependencies
 /node_modules
 
